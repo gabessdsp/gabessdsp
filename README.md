@@ -12,7 +12,7 @@ const person = {
   mission: "To develop top of the line interfaces and inspire those around me with my work."
 }
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=gabessdsp&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabessdsp&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy){:target="\_blank"}
 
 <!--
 **gabessdsp/gabessdsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[View my Grepper Profile](https://www.codegrepper.com/profile/gabe-m)
+[View my Grepper Profile](https://www.codegrepper.com/profile/gabe-m){:target="\_blank"}
